@@ -11,7 +11,7 @@ We are glad that you have chanced upon our repository and chosen to contribute y
 > - Cloning and Testing the Project out! Report any bugs or issues
 > - Sharing/Tweeting/Grapevining - whichever mode of informating propagation you prefer!
 
-Kindly refer to the table of contents for any specific instructions or FAQs!
+Kindly refer to the table of contents for any specific instructions or FAQs
 
 ## Table of Contents
 
