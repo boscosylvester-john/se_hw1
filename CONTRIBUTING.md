@@ -15,14 +15,15 @@ Kindly refer to the table of contents for any specific instructions or FAQs
 
 ## Table of Contents
 
-- [Question?](#i-have-a-question)
-- [How To Contribute:](#i-want-to-contribute)
-  - [Reporting Bugs](#reporting-bugs)
-  - [Suggesting Improvements](#suggesting-enhancements)
-  - [Enhancing The README](#improving-the-documentation)
-- [Commit Messages](#commit-messages)
-- [Join The Project Team](#join-the-project-team)
-
+| Content                                               | 
+| ----------------------------------------------------- |
+| [Question?](#i-have-a-question)                       | 
+| [How To Contribute:](#i-want-to-contribute)           | 
+| - [Reporting Bugs](#reporting-bugs)                   | 
+| - [Suggesting Improvements](#suggesting-enhancements) |
+| - [Enhancing The README](#improving-the-documentation)|
+| [Commit Messages](#commit-messages)                   |
+| [Join The Project Team](#join-the-project-team)       |
 
 
 ## Question?
