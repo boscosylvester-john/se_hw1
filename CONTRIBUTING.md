@@ -27,7 +27,7 @@ Kindly refer to the table of contents for any specific instructions or FAQs
 
 ## Question?
 
-> Hopefully the [README.md] answers any questions you may have, but if not, here are a few things you can do:
+> Hopefully the [README.md](https://github.com/boscosylvester-john/se_hw1/blob/main/README.md) answers any questions you may have, but if not, here are a few things you can do:
 - Look through the [Issues](https://github.com/boscosylvester-john/se_hw1/issues) section to see if your query has been answered previously. If you aren't satisfied with the explanation/answer - you can add on your doubts as a reply to the issue.
 - If you want to create a new issue for a previously unaddressed question, we suggest you to follow the given steps:
     - Open an [Issue](https://github.com/boscosylvester-john/se_hw1/issues/new).
@@ -37,9 +37,15 @@ We will then take care of the issue as soon as possible.
 
 ## How to Contribute:
 ### Reporting Bugs
+
 ### Suggesting Improvements
+
 ### Enhancing the README
 
 ## Commit Messages
-
+Follow a few of these simple rules while creating a commit message for your code contribution:
+- Limit the subject line to 5-6 words
+- Capitalize the subject line
+- Limit the body to 9-10 words
+- In the body, describe what you have done and optionally, why
 ## Join The Project Team
