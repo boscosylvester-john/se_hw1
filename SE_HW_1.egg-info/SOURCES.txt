@@ -1,0 +1,8 @@
+README.md
+setup.py
+SE_HW_1.egg-info/PKG-INFO
+SE_HW_1.egg-info/SOURCES.txt
+SE_HW_1.egg-info/dependency_links.txt
+SE_HW_1.egg-info/top_level.txt
+src/__init__.py
+src/calculations.py

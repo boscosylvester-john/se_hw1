@@ -1,1 +1,1 @@
-from .calculations import add
+from .calculations import add, subtract, multiply, divide
