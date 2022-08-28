@@ -1,0 +1,1 @@
+This one states all the requirements that we require to implement the application in full scale
