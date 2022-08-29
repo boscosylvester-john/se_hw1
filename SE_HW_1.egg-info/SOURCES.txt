@@ -1,4 +1,5 @@
 README.md
+pyproject.toml
 setup.py
 SE_HW_1.egg-info/PKG-INFO
 SE_HW_1.egg-info/SOURCES.txt
