@@ -1,0 +1,19 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+title: Basic Calculator
+abstract: This is a command line based project to perform basic calculations like addition, subtraction, multiplication, division.
+authors:
+  - family-names: "Chittilapilly"
+    given-names: "Boscosylvester John"
+  - family-names: "Naik"
+    given-names: "Shlok"
+  - family-names: "Kini"
+    given-names: "Tushar"
+  - family-names: "Kamath"
+    given-names: "Prasad Vithal"
+  - family-names: "Banerji"
+    given-names: "Ankur"
+version: 1.0.0
+doi: 10.5281/zenodo.7030317
+date-released: 2022-08-29
+url: "https://github.com/boscosylvester-john/se_hw1/"
