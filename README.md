@@ -3,8 +3,10 @@
 
 
 [![DOI](https://zenodo.org/badge/528681869.svg)](https://zenodo.org/badge/latestdoi/528681869)
-
 ![Python CI](https://github.com/boscosylvester-john/se_hw1/actions/workflows/tests.yaml/badge.svg) 
+[![GitHub stars](https://img.shields.io/github/stars/boscosylvester-john/se_hw1)](https://github.com/boscosylvester-john/se_hw1/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/boscosylvester-john/se_hw1)](https://github.com/boscosylvester-john/se_hw1/issues)
+
 ___
 The basic mathemtical operations that this repo does are-
 * Addition
@@ -36,6 +38,10 @@ Please have a look at the [guidelines](https://github.com/boscosylvester-john/se
 * Prasad Kamath [Github](https://github.com/kamathprasad9)
 * Shlok Naik [Github](https://github.com/shlokio)
 * Tushar Kini [Github](https://github.com/tusharkini)
+
+
+
+
 
 
 
