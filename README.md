@@ -34,7 +34,7 @@ Please have a look at the [guidelines](https://github.com/boscosylvester-john/se
 
 ### Authors
 * Ankur Banerji [Github](https://github.com/ankurbanerji3)
-* Bosco Sylvester John [Github](https://github.com/boscosylvester-john)
+* Boscosylvester Chittilapilly [Github](https://github.com/boscosylvester-john)
 * Prasad Kamath [Github](https://github.com/kamathprasad9)
 * Shlok Naik [Github](https://github.com/shlokio)
 * Tushar Kini [Github](https://github.com/tusharkini)
