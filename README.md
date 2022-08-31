@@ -6,6 +6,7 @@
 ![Python CI](https://github.com/boscosylvester-john/se_hw1/actions/workflows/tests.yaml/badge.svg) 
 [![GitHub stars](https://img.shields.io/github/stars/boscosylvester-john/se_hw1)](https://github.com/boscosylvester-john/se_hw1/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/boscosylvester-john/se_hw1)](https://github.com/boscosylvester-john/se_hw1/issues)
+https://img.shields.io/github/license/boscosylvester-john/se_hw1
 
 ___
 The basic mathemtical operations that this repo does are-
