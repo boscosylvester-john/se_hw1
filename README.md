@@ -3,10 +3,9 @@
 
 
 [![DOI](https://zenodo.org/badge/528681869.svg)](https://zenodo.org/badge/latestdoi/528681869)
-![Python CI](https://github.com/boscosylvester-john/se_hw1/actions/workflows/tests.yaml/badge.svg) 
+<a href = "https://github.com/boscosylvester-john/se_hw1/actions/workflows/tests.yaml">![Python CI](https://github.com/boscosylvester-john/se_hw1/actions/workflows/tests.yaml/badge.svg)</a> 
 [![GitHub stars](https://img.shields.io/github/stars/boscosylvester-john/se_hw1)](https://github.com/boscosylvester-john/se_hw1/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/boscosylvester-john/se_hw1)](https://github.com/boscosylvester-john/se_hw1/issues)
-![GitHub](https://img.shields.io/github/license/boscosylvester-john/se_hw1)
 
 ___
 The basic mathemtical operations that this repo does are-
@@ -29,7 +28,7 @@ ___
 Please have a look at the [guidelines](https://github.com/boscosylvester-john/se_hw1/blob/main/CONTRIBUTING.md) before contributing.
 
 ### License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub](https://img.shields.io/github/license/boscosylvester-john/se_hw1)</a>
 
 [License Guidelines](https://github.com/boscosylvester-john/se_hw1/blob/main/LICENSE.md)
 
